@@ -1,11 +1,6 @@
-给LLM的元提示不需要多，只需要把关键的词给他，他自己会选择合适的思考模式对不同的任务选用不同的方法。
-完整的skill内容如下：
+# 给LLM的元提示不需要多，只需要把关键的词给他，他自己会选择合适的思考模式对不同的任务选用不同的方法。
+## 完整的skill内容如下：
 
----
-name: meta-judgment
-description: Use for any coding (write/review/refactor/bugfix) or any judgment call (plan evaluation, architecture choice, vague requirements, debugging). Activates the right thinking tools by keyword — first-principles, Occam, adversarial/falsification, multi-perspective, inversion, Bayesian for judgment; read-before-write, surgical changes, test-real-behavior, checkpoint, fail-visibly, fix-root-cause for execution. Pick the weapon to match the task.
-license: MIT
----
 
 # 元判断
 
